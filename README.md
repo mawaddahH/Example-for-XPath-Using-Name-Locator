@@ -2,7 +2,7 @@
 Assignment 2 W8D1 - SDA - Software QA Bootcamp
 
 # Question
-Achieve XPath using ID attribute.
+Achieve XPath using class attribute.
 
 
 # Answer
