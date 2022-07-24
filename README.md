@@ -22,7 +22,7 @@ Add them as a library in the classpath of the project
 - click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close.
 
 Third:
-Open the website , Select the Web Element (ID) and add in the code
+Open the website , Select the Web Element (Name) and add in the code
 
 <img src="https://user-images.githubusercontent.com/48597284/180654032-28abdd85-d1e3-40ae-8aab-8441a2b52d9b.png" width=60% height=60%>
 
